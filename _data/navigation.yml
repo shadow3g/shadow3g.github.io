@@ -14,4 +14,4 @@ main:
   - title: "About"
     url: /about/
   - title: "Data Wrangling Projects"
-    url: /data-wrangling/
+    url: /machinelearning/
