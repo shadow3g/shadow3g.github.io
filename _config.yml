@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Shadow Paragon"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/bio-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Durham, NC"
   email            :
