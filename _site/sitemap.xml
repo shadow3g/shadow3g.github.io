@@ -5,7 +5,13 @@
 <lastmod>2018-01-28T00:00:00-08:00</lastmod>
 </url>
 <url>
+<loc>http://192.168.9.220:4000/about/</loc>
+</url>
+<url>
 <loc>http://192.168.9.220:4000/</loc>
+</url>
+<url>
+<loc>http://192.168.9.220:4000/data-wrangling/</loc>
 </url>
 <url>
 <loc>http://192.168.9.220:4000/_pages/</loc>
