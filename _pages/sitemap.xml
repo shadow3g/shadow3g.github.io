@@ -7,12 +7,4 @@
 <url>
 <loc>http://192.168.9.220:4000/</loc>
 </url>
-<url>
-<loc>http://192.168.9.220:4000/_pages/</loc>
-<lastmod>2020-03-12T18:05:45-07:00</lastmod>
-</url>
-<url>
-<loc>http://192.168.9.220:4000/_pages/perceptron/</loc>
-<lastmod>2020-03-12T18:05:45-07:00</lastmod>
-</url>
 </urlset>
