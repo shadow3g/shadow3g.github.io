@@ -1,6 +1,6 @@
 ---
 layout: posts
-permalink: /data-wrangling/
+permalink: /machinelearning/
 title: "Data Wrangling projects"
 author_profile: true
 header:
