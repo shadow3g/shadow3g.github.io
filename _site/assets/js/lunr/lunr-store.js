@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "I love Math!",
-        "excerpt":"Some inline Latex:    Display equation:       ","categories": [],
+        "excerpt":"Some inline Latex:    When $a \\ne 0$, there are two solutions to (ax^2 + bx + c = 0) and they are    Display equation:     These render differently. For example, type $\\sum_{i=0}^n i^2 = \\frac{(n^2+n)(2n+1)}{6}$ to show  (which is inline mode) or type  to show     ","categories": [],
         "tags": [],
         "url": "http://192.168.9.220:4000/Math/",
         "teaser": null
