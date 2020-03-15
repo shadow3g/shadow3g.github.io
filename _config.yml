@@ -96,7 +96,7 @@ author:
   name             : "Shadow Paragon"
   avatar           : "/images/bio-pic.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Durham, NC"
+  location         : "US"
   email            :
   links:
     - label: "Email"
@@ -104,7 +104,7 @@ author:
       # url: mailto:your.name@email.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://shadow3g.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -113,7 +113,6 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
       url: "https://github.com/shadow3g/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
