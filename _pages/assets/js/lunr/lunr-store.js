@@ -22,4 +22,22 @@ var store = [{
         "tags": [],
         "url": "/Pizza/",
         "teaser": null
+      },{
+        "title": "About Math",
+        "excerpt":"Some inline Latex:    When $a \\ne 0$, there are two solutions to (ax^2 + bx + c = 0) and they are    Display equation:     ","categories": [],
+        "tags": [],
+        "url": "/About/",
+        "teaser": null
+      },{
+        "title": "Butterfly",
+        "excerpt":"Butterfly animation. Butterfly animation.   ","categories": [],
+        "tags": [],
+        "url": "/Butterfly/",
+        "teaser": null
+      },{
+        "title": "Giphy",
+        "excerpt":"Giphy animation.  ","categories": [],
+        "tags": [],
+        "url": "/Giphy/",
+        "teaser": null
       }]

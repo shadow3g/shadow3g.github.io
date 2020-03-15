@@ -11,7 +11,9 @@
   # - title: "Sitemap"
   #   url: /sitemap/
 main:
-  - title: "About"
-    url: /about/
-  - title: "Data Wrangling Projects"
-    url: /machinelearning/
+  - title: "Giphy"
+    url: /Giphy/
+  - title: "Butterfly"
+    url: /Butterfly/
+  - title: "Code"
+    url: /Code/
